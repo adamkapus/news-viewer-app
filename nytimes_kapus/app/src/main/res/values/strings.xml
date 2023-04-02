@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NY Times Most Popular</string>
+    <string name="news_list_screen_item_thumbnail_content_description">Thumbnail of news item</string>
+    <string name="news_list_screen_item_arrow_content_description">Arrow icon</string>
+    <string name="news_list_screen_item_calendar_content_description">Calendar icon</string>
+    <string name="news_detail_screen_image_content_description">Illustration image for the news</string>
+    <string name="news_detail_screen_view_article_button">View article</string>
+    <string name="news_detail_open_link_no_internet">Unable to open article, there is no internet</string>
+    <string name="no_internet">You are offline</string>
+    <string name="news_detail_open_link_browser_not_installed">Install a browser to open webpages</string>
+</resources>
